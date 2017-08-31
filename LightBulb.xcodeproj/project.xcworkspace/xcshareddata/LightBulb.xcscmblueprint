@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2C68187F07C7244CA4D1831765969B6227BE297B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2C68187F07C7244CA4D1831765969B6227BE297B" : 9223372036854775807,
+    "9E597BBE87E95B2839A79FC65E398B71517818AF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EB6BC7CB-6D89-4E43-84FA-5C7DA8093F18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2C68187F07C7244CA4D1831765969B6227BE297B" : "swift-UILab01-lab-swift-intro-000\/",
+    "9E597BBE87E95B2839A79FC65E398B71517818AF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LightBulb",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LightBulb.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/samudrar\/swift-UILab01-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2C68187F07C7244CA4D1831765969B6227BE297B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/samudrar\/swift-interfaceBuilder-lab-swift-intro-000.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9E597BBE87E95B2839A79FC65E398B71517818AF"
+    }
+  ]
+}
